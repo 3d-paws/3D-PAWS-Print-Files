@@ -45,7 +45,7 @@ Recommended filament:
 4. For large or thin models, printing in an enclosure or heated chamber is highly recommended.
 
 ## About 3DPAWS
-The 3DPAWS initiative increases meteorological observations by enabling local construction of weather stations. Using 3D-printed parts makes weather monitoring more accessible and cost-effective for developing countries and rural communities.
+The 3DPAWS initiative increases meteorological observations by enabling local construction of weather stations. Using 3D-printed parts makes weather monitoring more accessible and cost-effective for developing countries and rural communities. Refer to the 3DPAWS manual for more information: https://3dpaws.comet.ucar.edu/
 
 ## Contributing
 We encourage exploration of the files and contributions to the 3DPAWS network. Open an issue or submit a pull request with any questions or improvements.
