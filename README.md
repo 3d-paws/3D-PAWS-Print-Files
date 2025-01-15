@@ -27,7 +27,9 @@ Simply copy the URL of the desired folder from this repository and paste it into
 ### Filament Choice
 We recommend using a high-quality ASA filament for optimal results. ASA is an excellent alternative to ABS, offering improved weather resistance, UV resistance, and excellent mechanical properties, making it ideal for outdoor applications like weather stations.
 
-Recommended filament: PolyLite™ ASA by Polymaker (https://us.polymaker.com/products/polylite-asa)
+Recommended filament: 
+- PolyLite™ ASA by Polymaker (https://us.polymaker.com/products/polylite-asa)
+- Overture (https://overture3d.com/collections/all-filaments/products/overture-asa-filament-1-75mm)
 
 ### Print Settings
 - **Nozzle Temperature:** 240°C - 260°C
