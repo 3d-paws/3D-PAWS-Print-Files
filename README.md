@@ -1,11 +1,10 @@
 # 3DPAWS Weather Station 3D Printing Files
 
 ## Description
-Repository containing .stl, .up3, and .3mf files for 3D printing parts for the 3DPAWS (3D-Printed Automatic Weather Station) project. Create your own low-cost, reliable surface weather station.
+Repository containing .stl and .3mf files for 3D printing parts for the 3DPAWS (3D-Printed Automatic Weather Station) project. Create your own low-cost, reliable surface weather station.
 
 ## File Types
 - `.stl`: Universal 3D printing file format
-- `.up3`: Specifically for Afinia printers
 - `.3mf`: Optimized for Bambu Labs printers
 
 ## Downloading Options
