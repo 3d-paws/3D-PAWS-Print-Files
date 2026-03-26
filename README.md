@@ -7,6 +7,15 @@ Repository containing .stl and .3mf files for 3D printing parts for the 3DPAWS (
 - `.stl`: Universal 3D printing file format
 - `.3mf`: Optimized for Bambu Labs printers
 
+## File Naming and Part Identification
+The print files in this repository are organized by component and follow a consistent naming convention. However, some file names may not be immediately intuitive when viewed independently. To more easily identify the correct parts:
+- Refer to the parts list at the beginning of the corresponding section in the 3D-PAWS manual
+- Match file names in this repository to the listed components
+- Use the manual diagrams to confirm part identification and placement
+- Preview the .stl files in each folder to visualize the parts (files are shown without supports)
+
+The repository is structured by subsystem (e.g., rain gauge, wind vane, radiation shield), so using the manual alongside these files will significantly improve navigation and part selection.
+
 ## Downloading Options
 
 ### 1. Individual Files
