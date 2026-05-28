@@ -25,7 +25,7 @@ module box_adptr_fem(){
         translate ([-2.5,-40,10]) cube ([5,80,25]);
         }
     //inner stop
-    translate ([0,0,10]) difference () {
+    translate ([0,0,13]) difference () {
         cylinder(3,fitting_or,fitting_or);
         translate([0,0,-1]) cylinder(55,fitting_or-2,fitting_or-2);}
 }
