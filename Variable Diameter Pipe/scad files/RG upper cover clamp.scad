@@ -4,7 +4,7 @@
 
 $fn=100;
 
-PR=16.20; //enter pvc pipe radius here (for standard 1" PVC, PR=16.90; for 32mm PR=16.2)
+PR=16.10; //enter pvc pipe radius here (for standard 1" PVC, PR=16.90; for 32mm PR=16.2)
 
 //hose clamp rim
 difference(){

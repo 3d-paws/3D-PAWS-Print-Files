@@ -3,7 +3,7 @@
 
 $fn=100;
 
-LPR=16.90;  //enter larger pvc pipe radii here (for standard 1" PVC, LPR=16.90)
+LPR=16.90;  //enter larger pvc pipe radii here (for standard 1" PVC, LPR=16.90, for 32mm PR=16.2)
 SPR=11.2;   //enter smaller pvc pipe radii here (for standard 3/4" CPVC, SPR=11.2)
 
 difference () {

@@ -5,7 +5,7 @@
 //parameters
 $fn=100;
 
-PR=16.90;   //enter pvc pipe radius here (for standard 1" PVC, PR=16.90)
+PR=16.45;   //enter pvc pipe radius here (for standard 1" PVC, PR=16.90)
 CR= 2.75;   //cable radius (voltaic CR=2.7)
     
 // main body (ring) with cable pass-through    

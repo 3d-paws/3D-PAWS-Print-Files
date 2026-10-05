@@ -2,7 +2,7 @@
 
 $fn=100;
 
-PR=21.25; // enter pvc fitting outer radius here (for standard 1" PVC 4 way tee, PR=20.50)
+PR=18.5; // enter pvc fitting outer radius here (for standard 1" PVC 4 way tee, PR=20.50)
 
 //threads
 scale([1.1,1.1,1])import("box to pipe adaptor nut2.stl");
