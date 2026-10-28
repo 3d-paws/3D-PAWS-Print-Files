@@ -7,7 +7,7 @@ use <levelling joint olive.scad>
 
 
 $fn=100;
-LPR=16.50; //enter pvc pipe radii here (for standard 1" PVC fitting, LPR=16.90; for standard 1" PVC ppipe, LPR=13.80;for standard 3/4" CPVC, 8=11.2; For 32mm fitting LPR = 16.5 for Malawi pipe 13.3)
+LPR=13.80; //enter pvc pipe radii here (for standard 1" PVC fitting, LPR=16.90; for standard 1" PVC ppipe, LPR=13.80;for standard 3/4" CPVC, 8=11.2; For 32mm fitting LPR = 16.5 for Malawi pipe 13.3)
 
 
 
